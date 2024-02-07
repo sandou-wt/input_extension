@@ -1,0 +1,19 @@
+body {
+    font-family: Consolas, monospace;
+    text-align: center;
+  }
+#wordDisplay {
+    font-size: 12px;
+    margin-bottom: 8px;
+  }
+#inputField {
+    font-family: Consolas, monospace;
+    font-size: 12px;
+    padding: 4px;
+    border: 1px solid #c8c8c8; /* 设置未激活状态的边框颜色和宽度 */
+    border-radius: 8px; /* 设置圆角 */
+    margin: 2px;
+  }
+#inputField:focus{
+    outline: none;
+  }

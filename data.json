@@ -1,0 +1,2711 @@
+[{
+    "word": "ankle",
+    "translations": [{
+        "translation": "脚踝",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "ankle joint",
+        "translation": "踝关节"
+    }]
+}, {
+    "word": "artificial",
+    "translations": [{
+        "translation": "人造的，虚伪的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "artificial intelligence",
+        "translation": "人工智能"
+    }, {
+        "phrase": "artificial leather",
+        "translation": "人造革"
+    }, {
+        "phrase": "artificial insemination",
+        "translation": "人工受精"
+    }, {
+        "phrase": "artificial stone",
+        "translation": "人造石"
+    }, {
+        "phrase": "artificial life",
+        "translation": "人工生命；人造生命"
+    }, {
+        "phrase": "artificial heart",
+        "translation": "[医]人工心脏"
+    }, {
+        "phrase": "artificial light",
+        "translation": "人造光"
+    }, {
+        "phrase": "artificial lake",
+        "translation": "人工湖；水库；人工蓄水池"
+    }, {
+        "phrase": "artificial flower",
+        "translation": "人造花"
+    }, {
+        "phrase": "artificial aging",
+        "translation": "人工时效；人工老化；人工硬化"
+    }, {
+        "phrase": "artificial color",
+        "translation": "人工色素"
+    }, {
+        "phrase": "artificial limb",
+        "translation": "n. 假肢"
+    }, {
+        "phrase": "artificial marble",
+        "translation": "人造大理石"
+    }, {
+        "phrase": "artificial lift",
+        "translation": "人工升举"
+    }, {
+        "phrase": "artificial person",
+        "translation": "[经]法人"
+    }, {
+        "phrase": "artificial silk",
+        "translation": "人造丝"
+    }, {
+        "phrase": "artificial respiration",
+        "translation": "人工呼吸；人工呼吸急救法"
+    }, {
+        "phrase": "artificial satellite",
+        "translation": "人造卫星"
+    }, {
+        "phrase": "artificial turf",
+        "translation": "人造草皮"
+    }, {
+        "phrase": "artificial lighting",
+        "translation": "[机]人工照明"
+    }]
+}, {
+    "word": "available",
+    "translations": [{
+        "translation": "可获得的，可利用的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "available for",
+        "translation": "可用于…的；对…有效的；能参加…的"
+    }, {
+        "phrase": "available on",
+        "translation": "仅在…有效（付款）"
+    }, {
+        "phrase": "available from",
+        "translation": "可向…购买"
+    }, {
+        "phrase": "available with",
+        "translation": "向（指定银行）押汇"
+    }, {
+        "phrase": "available resources",
+        "translation": "可利用的资源"
+    }, {
+        "phrase": "commercially available",
+        "translation": "市场上可买到的"
+    }, {
+        "phrase": "available data",
+        "translation": "现有数据；可用数据"
+    }, {
+        "phrase": "available information",
+        "translation": "可利用信息"
+    }, {
+        "phrase": "make available",
+        "translation": "使有用；使可用到"
+    }, {
+        "phrase": "available water",
+        "translation": "有效水分"
+    }, {
+        "phrase": "space available",
+        "translation": "可用空间"
+    }, {
+        "phrase": "available energy",
+        "translation": "有效能；可用能"
+    }, {
+        "phrase": "available time",
+        "translation": "可用时间；有效时间"
+    }, {
+        "phrase": "available funds",
+        "translation": "可用基金；可动用的资金"
+    }, {
+        "phrase": "available memory",
+        "translation": "可用内存"
+    }, {
+        "phrase": "available capacity",
+        "translation": "有效容积；可用功率"
+    }, {
+        "phrase": "available material",
+        "translation": "可用物料；可用材料；良品可使用"
+    }, {
+        "phrase": "available work",
+        "translation": "[物]可用功，可利用工时"
+    }, {
+        "phrase": "available light",
+        "translation": "[美术][摄影术]自然光线"
+    }]
+}, {
+    "word": "abstract",
+    "translations": [{
+        "translation": "抽象的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "in the abstract",
+        "translation": "抽象地；理论上；概括地"
+    }, {
+        "phrase": "abstract art",
+        "translation": "n. 抽象派；抽象主义"
+    }, {
+        "phrase": "abstract class",
+        "translation": "[计]抽象类（不允许实例化的类）"
+    }, {
+        "phrase": "abstract thinking",
+        "translation": "抽象思维；抽象思考能力"
+    }, {
+        "phrase": "abstract painting",
+        "translation": "抽象画；抽象绘画"
+    }, {
+        "phrase": "abstract noun",
+        "translation": "抽象名词"
+    }, {
+        "phrase": "abstract factory",
+        "translation": "抽象工厂"
+    }, {
+        "phrase": "abstract data type",
+        "translation": "[计]抽象数据类型"
+    }, {
+        "phrase": "abstract expressionism",
+        "translation": "n. 抽象表现主义"
+    }, {
+        "phrase": "abstract idea",
+        "translation": "抽象观念"
+    }, {
+        "phrase": "abstract algebra",
+        "translation": "抽象代数"
+    }, {
+        "phrase": "abstract away from",
+        "translation": "对…不予考虑"
+    }]
+}, {
+    "word": "assessment",
+    "translations": [{
+        "translation": "评估，评价",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "risk assessment",
+        "translation": "风险估计，危险率估计"
+    }, {
+        "phrase": "environmental impact assessment",
+        "translation": "环境影响评价"
+    }, {
+        "phrase": "assessment method",
+        "translation": "评价法"
+    }, {
+        "phrase": "environmental assessment",
+        "translation": "环境评价；环境评估"
+    }, {
+        "phrase": "quantitative assessment",
+        "translation": "定量评定（评价）"
+    }, {
+        "phrase": "life cycle assessment",
+        "translation": "生命周期研究法"
+    }, {
+        "phrase": "damage assessment",
+        "translation": "损坏情况估计"
+    }, {
+        "phrase": "assessment criteria",
+        "translation": "评估准则；评价准则"
+    }, {
+        "phrase": "security assessment",
+        "translation": "可靠性估计"
+    }, {
+        "phrase": "conformity assessment",
+        "translation": "合格评定；符合性评估；型式评价"
+    }, {
+        "phrase": "formative assessment",
+        "translation": "形成性评价；形成性测试；教学评测"
+    }, {
+        "phrase": "assessment process",
+        "translation": "评价程序，评估过程"
+    }, {
+        "phrase": "technology assessment",
+        "translation": "技术评估"
+    }, {
+        "phrase": "hazard assessment",
+        "translation": "危害评价，灾害评估"
+    }, {
+        "phrase": "portfolio assessment",
+        "translation": "档案评估"
+    }, {
+        "phrase": "qualitative assessment",
+        "translation": "质量评定"
+    }, {
+        "phrase": "preliminary assessment",
+        "translation": "初步评估；预备评估"
+    }, {
+        "phrase": "assessment center",
+        "translation": "评价中心，评估中心"
+    }, {
+        "phrase": "needs assessment",
+        "translation": "需求评估"
+    }, {
+        "phrase": "tax assessment",
+        "translation": "征税估值；税额查定；确定税款金额"
+    }]
+}, {
+    "word": "blame",
+    "translations": [{
+        "translation": "谴责",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "blame for",
+        "translation": "责备；因……责备"
+    }, {
+        "phrase": "take the blame",
+        "translation": "承担过错"
+    }, {
+        "phrase": "put the blame on",
+        "translation": "归咎于…"
+    }, {
+        "phrase": "be to blame for",
+        "translation": "对…应负责任；应该为某事负责任"
+    }, {
+        "phrase": "bear the blame",
+        "translation": "承担责任"
+    }]
+}, {
+    "word": "analytical",
+    "translations": [{
+        "translation": "分析的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "analytical method",
+        "translation": "分析法"
+    }, {
+        "phrase": "analytical chemistry",
+        "translation": "[化]分析化学"
+    }, {
+        "phrase": "analytical solution",
+        "translation": "分析解；分析解法"
+    }, {
+        "phrase": "analytical model",
+        "translation": "分析模型，解析模型"
+    }, {
+        "phrase": "analytical technique",
+        "translation": "分析技术，分析技术方法"
+    }, {
+        "phrase": "analytical data",
+        "translation": "分析数据"
+    }, {
+        "phrase": "analytical framework",
+        "translation": "分析框架；分析架构"
+    }, {
+        "phrase": "analytical system",
+        "translation": "分析系统"
+    }, {
+        "phrase": "analytical approach",
+        "translation": "分析方法"
+    }, {
+        "phrase": "analytical procedure",
+        "translation": "分析性程序"
+    }, {
+        "phrase": "analytical balance",
+        "translation": "（灵敏度为0.1到0.01毫克的）分析天平"
+    }, {
+        "phrase": "analytical chemistry experiment",
+        "translation": "分析化学实验"
+    }, {
+        "phrase": "analytical reagent",
+        "translation": "[化]分析纯试剂"
+    }, {
+        "phrase": "analytical thinking",
+        "translation": "分析思维"
+    }, {
+        "phrase": "analytical function",
+        "translation": "分析函数，解析函数"
+    }, {
+        "phrase": "analytical laboratory",
+        "translation": "分析试验室"
+    }, {
+        "phrase": "analytical philosophy",
+        "translation": "分析哲学；语言分析学派"
+    }, {
+        "phrase": "analytical mechanics",
+        "translation": "[机]解析力学"
+    }, {
+        "phrase": "analytical studies",
+        "translation": "分析性研究"
+    }, {
+        "phrase": "analytical equipment",
+        "translation": "分析设备，分析装置"
+    }]
+}, {
+    "word": "atmosphere",
+    "translations": [{
+        "translation": "气氛，空气",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "earth's atmosphere",
+        "translation": "地球大气"
+    }, {
+        "phrase": "social atmosphere",
+        "translation": "社会气氛"
+    }, {
+        "phrase": "academic atmosphere",
+        "translation": "n. 学业风气，学习氛围"
+    }, {
+        "phrase": "working atmosphere",
+        "translation": "工作环境"
+    }, {
+        "phrase": "upper atmosphere",
+        "translation": "上层大气；高空大气"
+    }, {
+        "phrase": "controlled atmosphere",
+        "translation": "受控大气；人造大气"
+    }, {
+        "phrase": "protective atmosphere",
+        "translation": "保护气氛；保护蒙气"
+    }, {
+        "phrase": "atmosphere pressure",
+        "translation": "大气压力，大气压强"
+    }, {
+        "phrase": "lower atmosphere",
+        "translation": "低层大气，下层大气"
+    }, {
+        "phrase": "furnace atmosphere",
+        "translation": "炉气氛，炉内气氛；炉内蒙气"
+    }, {
+        "phrase": "oxidizing atmosphere",
+        "translation": "氧化气氛；权化气氛"
+    }, {
+        "phrase": "gas atmosphere",
+        "translation": "气氛"
+    }, {
+        "phrase": "explosive atmosphere",
+        "translation": "易爆气体环境；爆燃性空气"
+    }, {
+        "phrase": "inert atmosphere",
+        "translation": "惰性气氛"
+    }, {
+        "phrase": "reducing atmosphere",
+        "translation": "还原空气；还原性气氛；还原性蒙气"
+    }, {
+        "phrase": "neutral atmosphere",
+        "translation": "中性气氛；中性大气；中性蒙气"
+    }, {
+        "phrase": "standard atmosphere",
+        "translation": "标准大气"
+    }, {
+        "phrase": "tragic atmosphere",
+        "translation": "悲剧气氛"
+    }]
+}, {
+    "word": "approach",
+    "translations": [{
+        "translation": "方法",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "new approach",
+        "translation": "新方案；新做法"
+    }, {
+        "phrase": "an approach to",
+        "translation": "学习...的入门；学习...的途径"
+    }, {
+        "phrase": "basic approach",
+        "translation": "基本方法"
+    }, {
+        "phrase": "approach with",
+        "translation": "以…方式处理；向…提出建议"
+    }, {
+        "phrase": "design approach",
+        "translation": "设计方法；设计方式"
+    }, {
+        "phrase": "research approach",
+        "translation": "研究途径；研究方案"
+    }, {
+        "phrase": "analysis approach",
+        "translation": "分析方法；分析研究"
+    }, {
+        "phrase": "systematic approach",
+        "translation": "系统观点，系统研究法"
+    }, {
+        "phrase": "make an approach to",
+        "translation": "对…进行探讨"
+    }, {
+        "phrase": "analytical approach",
+        "translation": "分析方法"
+    }, {
+        "phrase": "process approach",
+        "translation": "过程研究法"
+    }, {
+        "phrase": "alternative approach",
+        "translation": "变换方法"
+    }, {
+        "phrase": "system approach",
+        "translation": "系统方法"
+    }, {
+        "phrase": "holistic approach",
+        "translation": "整体分析，整体研究"
+    }, {
+        "phrase": "direct approach",
+        "translation": "直接法；直接进场；直接接近法"
+    }, {
+        "phrase": "approach channel",
+        "translation": "进港航道；引水渠"
+    }, {
+        "phrase": "pragmatic approach",
+        "translation": "实际的方法；重实效的方法"
+    }, {
+        "phrase": "experimental approach",
+        "translation": "实验研究法"
+    }, {
+        "phrase": "systems approach",
+        "translation": "系统方法；系统论方法"
+    }, {
+        "phrase": "income approach",
+        "translation": "收益法；所得方法；入息计算法"
+    }]
+}, {
+    "word": "arm",
+    "translations": [{
+        "translation": "装备，武装",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "in arms",
+        "translation": "怀抱着的；武装起来的"
+    }, {
+        "phrase": "on one's arm",
+        "translation": "由(或靠)手臂支撑着"
+    }, {
+        "phrase": "up in arms",
+        "translation": "竭力反对；进行武装斗争"
+    }, {
+        "phrase": "at arm's length",
+        "translation": "疏远；在手臂伸得到的地方"
+    }, {
+        "phrase": "right arm",
+        "translation": "右臂；得力助手"
+    }, {
+        "phrase": "with open arms",
+        "translation": "张开双臂；热情地；亲切地"
+    }, {
+        "phrase": "on the arm",
+        "translation": "[美国俚语]"
+    }, {
+        "phrase": "arm in arm",
+        "translation": "臂挽臂"
+    }, {
+        "phrase": "upper arm",
+        "translation": "上臂"
+    }, {
+        "phrase": "bear arms",
+        "translation": "携带武器；当兵"
+    }, {
+        "phrase": "with arms",
+        "translation": "武装的"
+    }, {
+        "phrase": "under his arm",
+        "translation": "（腋下）挟着"
+    }, {
+        "phrase": "robot arm",
+        "translation": "机械手臂；机器手"
+    }, {
+        "phrase": "long arm",
+        "translation": "长臂"
+    }, {
+        "phrase": "rocker arm",
+        "translation": "摇臂，摇杆"
+    }, {
+        "phrase": "swing arm",
+        "translation": "摇动臂"
+    }, {
+        "phrase": "control arm",
+        "translation": "n. 控制杆，操作杆"
+    }, {
+        "phrase": "arm of the law",
+        "translation": "[讽刺语]执法人(如警察、法官、律师等)"
+    }, {
+        "phrase": "take up arms",
+        "translation": "v. 拿起武器"
+    }, {
+        "phrase": "suspension arm",
+        "translation": "吊臂；弹簧吊架；悬挂臂，悬架臂"
+    }]
+}, {
+    "word": "adopt",
+    "translations": [{
+        "translation": "采纳",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "adopt various methods",
+        "translation": "采取不同办法"
+    }]
+}, {
+    "word": "athletic",
+    "translations": [{
+        "translation": "运动的，运动员的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "athletic sports",
+        "translation": "体育运动"
+    }, {
+        "phrase": "athletic field",
+        "translation": "运动场，田径场地"
+    }, {
+        "phrase": "athletic ability",
+        "translation": "运动能力"
+    }, {
+        "phrase": "athletic meeting",
+        "translation": "运动会；田径比赛"
+    }]
+}, {
+    "word": "allergic",
+    "translations": [{
+        "translation": "过敏的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "allergic rhinitis",
+        "translation": "过敏性鼻炎"
+    }, {
+        "phrase": "allergic reaction",
+        "translation": "过敏反应；变态反应"
+    }, {
+        "phrase": "allergic asthma",
+        "translation": "[医]变应性气喘；敏性气喘"
+    }, {
+        "phrase": "allergic purpura",
+        "translation": "过敏性紫癜"
+    }, {
+        "phrase": "allergic disease",
+        "translation": "变应性疾病，变态反应病"
+    }, {
+        "phrase": "allergic contact dermatitis",
+        "translation": "变应性接触性皮炎；过敏性接触性皮炎"
+    }, {
+        "phrase": "allergic dermatitis",
+        "translation": "变应性皮炎"
+    }]
+}, {
+    "word": "absolutely",
+    "translations": [{
+        "translation": "当然",
+        "type": "adv"
+    }],
+    "phrases": [{
+        "phrase": "absolutely necessary",
+        "translation": "绝对必要"
+    }]
+}, {
+    "word": "aid",
+    "translations": [{
+        "translation": "援助，有助于",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "with the aid of",
+        "translation": "在…的帮助下，在…援助下"
+    }, {
+        "phrase": "give aid to",
+        "translation": "给…予帮助"
+    }, {
+        "phrase": "first aid",
+        "translation": "急救；急救护理"
+    }, {
+        "phrase": "aid in",
+        "translation": "vt. 帮助；帮助（在...给予帮助）"
+    }, {
+        "phrase": "financial aid",
+        "translation": "经济援助；助学金；财政补助"
+    }, {
+        "phrase": "foreign aid",
+        "translation": "n. 外援，国外援助"
+    }, {
+        "phrase": "legal aid",
+        "translation": "法律援助"
+    }, {
+        "phrase": "in aid of",
+        "translation": "用以援助…之用"
+    }, {
+        "phrase": "by the aid of",
+        "translation": "借助于；通过…的帮助"
+    }, {
+        "phrase": "humanitarian aid",
+        "translation": "人道主义援助"
+    }, {
+        "phrase": "hearing aid",
+        "translation": "n. 助听器"
+    }, {
+        "phrase": "mutual aid",
+        "translation": "互助"
+    }, {
+        "phrase": "medical aid",
+        "translation": "医疗救护；医疗补助"
+    }, {
+        "phrase": "international aid",
+        "translation": "国际援助"
+    }, {
+        "phrase": "economic aid",
+        "translation": "经济救助"
+    }, {
+        "phrase": "teaching aid",
+        "translation": "教具"
+    }, {
+        "phrase": "emergency aid",
+        "translation": "紧急救援"
+    }, {
+        "phrase": "grinding aid",
+        "translation": "助磨剂，磨料；研磨助材"
+    }, {
+        "phrase": "filter aid",
+        "translation": "[化]助滤剂；助滤器"
+    }, {
+        "phrase": "state aid",
+        "translation": "国家补助；（美）州政府对地方公共事业的补助费"
+    }]
+}, {
+    "word": "apartment",
+    "translations": [{
+        "translation": "公寓",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "apartment building",
+        "translation": "（美）公寓大楼"
+    }, {
+        "phrase": "apartment house",
+        "translation": "（美）隔成公寓的建筑物"
+    }, {
+        "phrase": "apartment complex",
+        "translation": "公寓大楼"
+    }, {
+        "phrase": "apartment block",
+        "translation": "公寓大楼"
+    }, {
+        "phrase": "furnished apartment",
+        "translation": "有家具的公寓"
+    }, {
+        "phrase": "apartment hotel",
+        "translation": "公寓式饭店；公寓式旅馆"
+    }, {
+        "phrase": "apartment for rent",
+        "translation": "房屋出租；公寓招租；吉屋出租"
+    }, {
+        "phrase": "studio apartment",
+        "translation": "n. 一个房间的小公寓住宅"
+    }, {
+        "phrase": "duplex apartment",
+        "translation": "套楼公寓；复式住宅（等于duplex）"
+    }]
+}, {
+    "word": "affection",
+    "translations": [{
+        "translation": "喜爱",
+        "type": "n"
+    }]
+}, {
+    "word": "accustom",
+    "translations": [{
+        "translation": "使习惯",
+        "type": "v"
+    }]
+}, {
+    "word": "automatic",
+    "translations": [{
+        "translation": "自动的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "automatic control",
+        "translation": "自动控制"
+    }, {
+        "phrase": "automatic control system",
+        "translation": "自动控制系统"
+    }, {
+        "phrase": "fully automatic",
+        "translation": "全自动的"
+    }, {
+        "phrase": "automatic system",
+        "translation": "自动系统；自动装置"
+    }, {
+        "phrase": "full automatic",
+        "translation": "全自动的"
+    }, {
+        "phrase": "automatic welding",
+        "translation": "自动焊接"
+    }, {
+        "phrase": "automatic transmission",
+        "translation": "自动换档；自动变速装置；自动驾驶"
+    }, {
+        "phrase": "automatic detection",
+        "translation": "自动检测"
+    }, {
+        "phrase": "automatic machine",
+        "translation": "自动机床；自动机械"
+    }, {
+        "phrase": "automatic testing",
+        "translation": "自动测试；自动校验；自动检验"
+    }, {
+        "phrase": "automatic test system",
+        "translation": "自动测试系统"
+    }, {
+        "phrase": "automatic equipment",
+        "translation": "自动设备；自动装置"
+    }, {
+        "phrase": "automatic operation",
+        "translation": "自动操作；自动运算"
+    }, {
+        "phrase": "automatic tracking",
+        "translation": "自动跟踪；自动跟踪仪"
+    }, {
+        "phrase": "automatic door",
+        "translation": "自动门"
+    }, {
+        "phrase": "automatic inspection",
+        "translation": "自动检查；自动检验"
+    }, {
+        "phrase": "automatic feed",
+        "translation": "自动进料"
+    }, {
+        "phrase": "automatic control theory",
+        "translation": "自动控制理论"
+    }, {
+        "phrase": "automatic switching",
+        "translation": "自动转换；自动开关"
+    }, {
+        "phrase": "automatic device",
+        "translation": "自动装置"
+    }]
+}, {
+    "word": "abandonment",
+    "translations": [{
+        "translation": "放弃",
+        "type": "n"
+    }]
+}, {
+    "word": "branch",
+    "translations": [{
+        "translation": "分支，分公司",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "party branch",
+        "translation": "党支部"
+    }, {
+        "phrase": "branch office",
+        "translation": "分支机构；分局；分社"
+    }, {
+        "phrase": "branch company",
+        "translation": "分公司"
+    }, {
+        "phrase": "branch line",
+        "translation": "支线；岔线"
+    }, {
+        "phrase": "executive branch",
+        "translation": "行政部门"
+    }, {
+        "phrase": "main branch",
+        "translation": "主枝；主分支；中央领导技"
+    }, {
+        "phrase": "olive branch",
+        "translation": "橄榄枝（象征和平）；谈和的建议；小孩"
+    }, {
+        "phrase": "branch and bound",
+        "translation": "分支界限法；界定法"
+    }, {
+        "phrase": "branch out",
+        "translation": "v. 长出枝条；扩展范围；偏离主题"
+    }, {
+        "phrase": "party branch secretary",
+        "translation": "党支部书记"
+    }, {
+        "phrase": "branch pipe",
+        "translation": "支管；[机]分歧管"
+    }, {
+        "phrase": "branch network",
+        "translation": "分支网络"
+    }, {
+        "phrase": "branch off",
+        "translation": "分叉"
+    }, {
+        "phrase": "branch manager",
+        "translation": "[经]分店经理"
+    }, {
+        "phrase": "special branch",
+        "translation": "（英国警察部门的）政治保安处"
+    }, {
+        "phrase": "branch school",
+        "translation": "分校"
+    }, {
+        "phrase": "branch bank",
+        "translation": "银行分行，分行"
+    }, {
+        "phrase": "branch out into",
+        "translation": "分成；分枝成"
+    }, {
+        "phrase": "bundle branch",
+        "translation": "束支"
+    }, {
+        "phrase": "overseas branch",
+        "translation": "国外分支机构；海外分店"
+    }]
+}, {
+    "word": "arrogant",
+    "translations": [{
+        "translation": "傲慢无礼的",
+        "type": "adj"
+    }]
+}, {
+    "word": "adventure",
+    "translations": [{
+        "translation": "冒险",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "adventure film",
+        "translation": "惊险片"
+    }]
+}, {
+    "word": "anxiety",
+    "translations": [{
+        "translation": "焦虑",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "anxiety disorder",
+        "translation": "焦虑症；焦虑性障碍；焦虑症候群"
+    }, {
+        "phrase": "anxiety for sth",
+        "translation": "渴望"
+    }, {
+        "phrase": "test anxiety",
+        "translation": "考试焦虑；测验焦虑"
+    }, {
+        "phrase": "trait anxiety",
+        "translation": "特质焦虑，特质性焦虑"
+    }, {
+        "phrase": "anxiety neurosis",
+        "translation": "焦虑性神经机能病"
+    }, {
+        "phrase": "generalized anxiety disorder",
+        "translation": "广泛性焦虑，广泛性焦虑障碍"
+    }, {
+        "phrase": "performance anxiety",
+        "translation": "表现焦虑；作业焦虑"
+    }]
+}, {
+    "word": "authorities",
+    "translations": [{
+        "translation": "当局",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "taiwan authorities",
+        "translation": "台湾当局"
+    }, {
+        "phrase": "higher authorities",
+        "translation": "最高当局"
+    }, {
+        "phrase": "authorities concerned",
+        "translation": "有关当局；主管部门"
+    }, {
+        "phrase": "the school authorities",
+        "translation": "学校当局"
+    }]
+}, {
+    "word": "adverse",
+    "translations": [{
+        "translation": "相反的，敌对的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "adverse effect",
+        "translation": "不利影响；副作用"
+    }, {
+        "phrase": "adverse selection",
+        "translation": "逆选择；相反的选择"
+    }, {
+        "phrase": "adverse reaction",
+        "translation": "不良反应；逆反应；有害反应"
+    }, {
+        "phrase": "adverse impact",
+        "translation": "负面影响"
+    }, {
+        "phrase": "adverse weather",
+        "translation": "恶劣天气；不利天气"
+    }, {
+        "phrase": "adverse factor",
+        "translation": "有害因素；有害因子"
+    }, {
+        "phrase": "adverse current",
+        "translation": "逆流"
+    }, {
+        "phrase": "adverse condition",
+        "translation": "不利条件；有害状态"
+    }, {
+        "phrase": "adverse balance",
+        "translation": "贸易逆差"
+    }, {
+        "phrase": "adverse balance of trade",
+        "translation": "逆差；贸易逆差"
+    }, {
+        "phrase": "adverse pressure",
+        "translation": "反压力；反压"
+    }, {
+        "phrase": "adverse criticism",
+        "translation": "反向批评；逆向评论"
+    }]
+}, {
+    "word": "assassinate",
+    "translations": [{
+        "translation": "刺杀，暗杀",
+        "type": "v"
+    }]
+}, {
+    "word": "ballet",
+    "translations": [{
+        "translation": "芭蕾",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "ballet dancer",
+        "translation": "芭蕾舞蹈家"
+    }, {
+        "phrase": "water ballet",
+        "translation": "[体]花样游泳；水上芭蕾舞"
+    }]
+}, {
+    "word": "adventurer",
+    "translations": [{
+        "translation": "冒险者",
+        "type": "n"
+    }]
+}, {
+    "word": "bias",
+    "translations": [{
+        "translation": "偏见",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "bias voltage",
+        "translation": "[电]偏压"
+    }, {
+        "phrase": "bias current",
+        "translation": "偏置电流；偏流"
+    }, {
+        "phrase": "on the bias",
+        "translation": "◎偏斜地，倾斜地，歪斜地"
+    }, {
+        "phrase": "bias circuit",
+        "translation": "偏置电路；偏压电路"
+    }, {
+        "phrase": "selection bias",
+        "translation": "选择性偏差"
+    }, {
+        "phrase": "substrate bias",
+        "translation": "衬底偏置"
+    }, {
+        "phrase": "reverse bias",
+        "translation": "反向偏压；逆向偏压；反偏压"
+    }, {
+        "phrase": "positive bias",
+        "translation": "正偏置，正偏压"
+    }, {
+        "phrase": "negative bias",
+        "translation": "负偏压"
+    }, {
+        "phrase": "current bias",
+        "translation": "栅流；电流偏置"
+    }, {
+        "phrase": "forward bias",
+        "translation": "[电]正向偏压；前向偏移"
+    }, {
+        "phrase": "cut on the bias",
+        "translation": "(裁缝等)斜裁，斜剪；斜切"
+    }]
+}, {
+    "word": "attendant",
+    "translations": [{
+        "translation": "服务人员",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "flight attendant",
+        "translation": "空中服务人员"
+    }, {
+        "phrase": "room attendant",
+        "translation": "客房服务员"
+    }, {
+        "phrase": "train attendant",
+        "translation": "列车服务员"
+    }]
+}, {
+    "word": "bureaucracy",
+    "translations": [{
+        "translation": "官僚主义",
+        "type": "n"
+    }]
+}, {
+    "word": "arouse",
+    "translations": [{
+        "translation": "唤起",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "arouse the enthusiasm of",
+        "translation": "调动积极性"
+    }, {
+        "phrase": "arouse from",
+        "translation": "v. 从…中唤醒"
+    }]
+}, {
+    "word": "battery",
+    "translations": [{
+        "translation": "电池",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "battery of",
+        "translation": "一组；一套"
+    }, {
+        "phrase": "storage battery",
+        "translation": "蓄电池；蓄电池组"
+    }, {
+        "phrase": "lithium battery",
+        "translation": "锂电池；锂蓄电池"
+    }, {
+        "phrase": "battery charger",
+        "translation": "电池充电器"
+    }, {
+        "phrase": "in battery",
+        "translation": "(炮)准备发射的状态"
+    }, {
+        "phrase": "lithium ion battery",
+        "translation": "锂离子电池"
+    }, {
+        "phrase": "lead-acid battery",
+        "translation": "铅酸蓄电池"
+    }, {
+        "phrase": "battery pack",
+        "translation": "电池组"
+    }, {
+        "phrase": "rechargeable battery",
+        "translation": "可充电电池"
+    }, {
+        "phrase": "solar battery",
+        "translation": "太阳能电池"
+    }, {
+        "phrase": "battery charging",
+        "translation": "电池充电；蓄电池室充电"
+    }, {
+        "phrase": "car battery",
+        "translation": "汽车电池；车用蓄电池"
+    }, {
+        "phrase": "battery capacity",
+        "translation": "电池容量；蓄电池容量"
+    }, {
+        "phrase": "battery voltage",
+        "translation": "电池组电压"
+    }, {
+        "phrase": "secondary battery",
+        "translation": "二次电池；蓄电池"
+    }, {
+        "phrase": "lead acid battery",
+        "translation": "铅酸蓄电池；铅酸电池；密封蓄电池"
+    }, {
+        "phrase": "battery charge",
+        "translation": "电池充电器；蓄电池充电"
+    }, {
+        "phrase": "dry battery",
+        "translation": "干电池"
+    }, {
+        "phrase": "alkaline battery",
+        "translation": "碱性电池"
+    }, {
+        "phrase": "battery separator",
+        "translation": "电池隔板；蓄电池隔板"
+    }]
+}, {
+    "word": "breezy",
+    "translations": [{
+        "translation": "轻松愉快的",
+        "type": "adj"
+    }]
+}, {
+    "word": "accomplish",
+    "translations": [{
+        "translation": "实现",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "accomplish nothing",
+        "translation": "一事无成；一无所成"
+    }]
+}, {
+    "word": "barrier",
+    "translations": [{
+        "translation": "障碍，阻碍",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "trade barrier",
+        "translation": "贸易壁垒"
+    }, {
+        "phrase": "language barrier",
+        "translation": "n. 语言障碍"
+    }, {
+        "phrase": "barrier reef",
+        "translation": "堡礁；堤礁"
+    }, {
+        "phrase": "thermal barrier",
+        "translation": "热障；保温层；绝热层"
+    }, {
+        "phrase": "great barrier reef",
+        "translation": "大堡礁"
+    }, {
+        "phrase": "blood-brain barrier",
+        "translation": "血脑屏障；血脑障壁"
+    }, {
+        "phrase": "tariff barrier",
+        "translation": "关税壁垒"
+    }, {
+        "phrase": "barrier property",
+        "translation": "防护性能；隔离性，不透气性"
+    }, {
+        "phrase": "sound barrier",
+        "translation": "声障（等于sonic barrier）"
+    }, {
+        "phrase": "barrier layer",
+        "translation": "阻挡层；势垒层"
+    }, {
+        "phrase": "potential barrier",
+        "translation": "势垒；位垒"
+    }, {
+        "phrase": "non-tariff barrier",
+        "translation": "非关税壁垒"
+    }, {
+        "phrase": "noise barrier",
+        "translation": "隔音屏障；隔声板"
+    }, {
+        "phrase": "blood brain barrier",
+        "translation": "血脑屏障"
+    }, {
+        "phrase": "moisture barrier",
+        "translation": "防潮层"
+    }, {
+        "phrase": "natural barrier",
+        "translation": "天然屏障；天然堤"
+    }, {
+        "phrase": "safety barrier",
+        "translation": "安全势垒，安全栅；停机拦截网"
+    }, {
+        "phrase": "fire barrier",
+        "translation": "阻火器；防火墙；防火煤柱；防火隔板"
+    }, {
+        "phrase": "protective barrier",
+        "translation": "遮壁；防护栏杆；防护栅障"
+    }, {
+        "phrase": "barrier system",
+        "translation": "屏障系统；柱式开采法；栅栏系统"
+    }]
+}, {
+    "word": "administration",
+    "translations": [{
+        "translation": "管理，政府",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "administration of",
+        "translation": "◎(法律、惩罚等的)施行，执行，实行，实施；(药的)服用；用法；给与；(庄严的誓言或诺言的)提出，宣誓"
+    }, {
+        "phrase": "business administration",
+        "translation": "企业管理；经营管理"
+    }, {
+        "phrase": "public administration",
+        "translation": "公共行政；公共管理；行政管理"
+    }, {
+        "phrase": "general administration",
+        "translation": "总管理处"
+    }, {
+        "phrase": "food and drug administration",
+        "translation": "食品和药物管理局"
+    }, {
+        "phrase": "administration department",
+        "translation": "行政部"
+    }, {
+        "phrase": "educational administration",
+        "translation": "教育管理；教育行政管理"
+    }, {
+        "phrase": "civil administration",
+        "translation": "n. 民政"
+    }, {
+        "phrase": "tax administration",
+        "translation": "税务管理"
+    }, {
+        "phrase": "administration of justice",
+        "translation": "司法；司法行政；执法"
+    }, {
+        "phrase": "school administration",
+        "translation": "学校行政；学院管理"
+    }, {
+        "phrase": "oral administration",
+        "translation": "[医]口服"
+    }, {
+        "phrase": "state environmental protection administration",
+        "translation": "国家环境保护总局"
+    }, {
+        "phrase": "personnel administration",
+        "translation": "干部（人事）管理"
+    }, {
+        "phrase": "administration office",
+        "translation": "行政办公室；秘书室"
+    }, {
+        "phrase": "administration fee",
+        "translation": "管理费；手续费"
+    }, {
+        "phrase": "financial administration",
+        "translation": "财务管理"
+    }, {
+        "phrase": "administration structure",
+        "translation": "行政机构"
+    }, {
+        "phrase": "foreign exchange administration",
+        "translation": "外汇管理局"
+    }, {
+        "phrase": "administration building",
+        "translation": "行政办公楼"
+    }]
+}, {
+    "word": "appropriate",
+    "translations": [{
+        "translation": "适当的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "as appropriate",
+        "translation": "酌情；[拉丁语]视情况而定"
+    }, {
+        "phrase": "appropriate time",
+        "translation": "适当时间"
+    }, {
+        "phrase": "if appropriate",
+        "translation": "任选地；如果有的话"
+    }, {
+        "phrase": "appropriate technology",
+        "translation": "适当的技术；适用技术"
+    }, {
+        "phrase": "be appropriate for",
+        "translation": "适合于"
+    }, {
+        "phrase": "appropriate authority",
+        "translation": "有关当局"
+    }]
+}, {
+    "word": "barely",
+    "translations": [{
+        "translation": "几乎不，仅仅",
+        "type": "adv"
+    }]
+}, {
+    "word": "activate",
+    "translations": [{
+        "translation": "激活",
+        "type": "v"
+    }]
+}, {
+    "word": "biography",
+    "translations": [{
+        "translation": "自传",
+        "type": "n"
+    }]
+}, {
+    "word": "alternative",
+    "translations": [{
+        "translation": "代替品",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "alternative energy",
+        "translation": "替代能源；新能源"
+    }, {
+        "phrase": "alternative medicine",
+        "translation": "非传统医学"
+    }, {
+        "phrase": "have no alternative",
+        "translation": "没有别的办法了；没有其他选择"
+    }, {
+        "phrase": "alternative fuel",
+        "translation": "代用燃料；可替代燃料；人造液体燃料"
+    }, {
+        "phrase": "alternative method",
+        "translation": "替代的方法"
+    }, {
+        "phrase": "alternative approach",
+        "translation": "变换方法"
+    }, {
+        "phrase": "have no alternative but",
+        "translation": "v. 别无选择；只得；唯一的办法是"
+    }, {
+        "phrase": "alternative energy sources",
+        "translation": "替代能源"
+    }, {
+        "phrase": "alternative investment",
+        "translation": "另类投资"
+    }, {
+        "phrase": "alternative splicing",
+        "translation": "可变剪接"
+    }, {
+        "phrase": "alternative solution",
+        "translation": "可选择的解决方案"
+    }, {
+        "phrase": "alternative plan",
+        "translation": "交替计划；可供选择的方案"
+    }, {
+        "phrase": "alternative design",
+        "translation": "替代设计；比较设计"
+    }, {
+        "phrase": "alternative use",
+        "translation": "选择使用；交替使用"
+    }, {
+        "phrase": "alternative option",
+        "translation": "替代，替代物；比较选择方案"
+    }, {
+        "phrase": "alternative media",
+        "translation": "另类媒介；另类媒体"
+    }, {
+        "phrase": "alternative form",
+        "translation": "代替方式；替换制度"
+    }]
+}, {
+    "word": "bother",
+    "translations": [{
+        "translation": "困扰",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "don't bother",
+        "translation": "不用麻烦了；不打扰了"
+    }, {
+        "phrase": "bother about",
+        "translation": "烦恼"
+    }, {
+        "phrase": "bother with",
+        "translation": "为…而费心，为…操心；用…打扰"
+    }, {
+        "phrase": "can't be bothered",
+        "translation": "不想出力，不愿找麻烦"
+    }, {
+        "phrase": "bother to do sth",
+        "translation": "费心去做某事"
+    }]
+}, {
+    "word": "aspect",
+    "translations": [{
+        "translation": "方面",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "aspect ratio",
+        "translation": "纵横比；屏幕高宽比"
+    }, {
+        "phrase": "negative aspect",
+        "translation": "否定体；否定式"
+    }, {
+        "phrase": "aspect angle",
+        "translation": "视界角；视线角；扫描角"
+    }, {
+        "phrase": "environmental aspect",
+        "translation": "环境因素，环境状况"
+    }]
+}, {
+    "word": "accrue",
+    "translations": [{
+        "translation": "积累",
+        "type": "v"
+    }]
+}, {
+    "word": "breed",
+    "translations": [{
+        "translation": "繁殖；导致",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "rare breed",
+        "translation": "凤毛麟角；稀有品种"
+    }, {
+        "phrase": "breed out",
+        "translation": "在人工繁殖中消除"
+    }, {
+        "phrase": "pure breed",
+        "translation": "纯种"
+    }]
+}, {
+    "word": "acquaintance",
+    "translations": [{
+        "translation": "熟人",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "acquaintance with",
+        "translation": "相识"
+    }, {
+        "phrase": "acquaintance with someone",
+        "translation": "对某人的相识，熟"
+    }, {
+        "phrase": "nodding acquaintance",
+        "translation": "相识不深的人；不完整或肤浅的知识"
+    }, {
+        "phrase": "make the acquaintance of",
+        "translation": "vt. 和…相识，结识"
+    }]
+}, {
+    "word": "blueprint",
+    "translations": [{
+        "translation": "蓝图，设计图",
+        "type": "n"
+    }]
+}, {
+    "word": "authorization",
+    "translations": [{
+        "translation": "授权",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "authentication and authorization",
+        "translation": "鉴别与授权；验证和授权"
+    }, {
+        "phrase": "authorization letter",
+        "translation": "授权书；授权信"
+    }, {
+        "phrase": "letter of authorization",
+        "translation": "授权证书；委任证书"
+    }, {
+        "phrase": "written authorization",
+        "translation": "授权书；核准书"
+    }, {
+        "phrase": "access authorization",
+        "translation": "存取授权；访问权限"
+    }, {
+        "phrase": "authorization code",
+        "translation": "[计]授权代码"
+    }]
+}, {
+    "word": "bribe",
+    "translations": [{
+        "translation": "贿赂",
+        "type": "v"
+    }]
+}, {
+    "word": "agenda",
+    "translations": [{
+        "translation": "议程",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "item on the agenda",
+        "translation": "议程项目"
+    }, {
+        "phrase": "hidden agenda",
+        "translation": "隐秘的议程；幕后的动机"
+    }, {
+        "phrase": "agenda setting",
+        "translation": "议题设定；议程设定"
+    }]
+}, {
+    "word": "backup",
+    "translations": [{
+        "translation": "后补，援助",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "backup and recovery",
+        "translation": "备份与恢复"
+    }, {
+        "phrase": "backup and restore",
+        "translation": "备份与还原"
+    }, {
+        "phrase": "backup system",
+        "translation": "备用系统；后备系统"
+    }, {
+        "phrase": "backup roll",
+        "translation": "支承辊；背辊；压辊"
+    }, {
+        "phrase": "backup copy",
+        "translation": "副本；备份件"
+    }, {
+        "phrase": "backup file",
+        "translation": "备份文件"
+    }, {
+        "phrase": "backup software",
+        "translation": "文件备份"
+    }, {
+        "phrase": "backup device",
+        "translation": "备份设备；备用设备"
+    }, {
+        "phrase": "full backup",
+        "translation": "全部备份"
+    }, {
+        "phrase": "system backup",
+        "translation": "系统备份；系统后备"
+    }, {
+        "phrase": "backup storage",
+        "translation": "n. 后备存储器"
+    }, {
+        "phrase": "file backup",
+        "translation": "文件备份；档案备份"
+    }]
+}, {
+    "word": "awareness",
+    "translations": [{
+        "translation": "意识",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "awareness of",
+        "translation": "意识到"
+    }, {
+        "phrase": "environmental awareness",
+        "translation": "环境意识；环保意识"
+    }, {
+        "phrase": "brand awareness",
+        "translation": "品牌意识，商标意识；品牌知名度"
+    }, {
+        "phrase": "risk awareness",
+        "translation": "风险意识"
+    }, {
+        "phrase": "strengthen the awareness",
+        "translation": "提高意识；强化意识"
+    }, {
+        "phrase": "self-protection awareness",
+        "translation": "自我保护意识"
+    }, {
+        "phrase": "global awareness",
+        "translation": "全球意识；完整的意识，知觉"
+    }]
+}, {
+    "word": "accountant",
+    "translations": [{
+        "translation": "会计",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "certified public accountant",
+        "translation": "有合格证件的会计师"
+    }, {
+        "phrase": "public accountant",
+        "translation": "公共会计师"
+    }, {
+        "phrase": "chief accountant",
+        "translation": "总会计师；会计主任，会计处长"
+    }, {
+        "phrase": "chartered accountant",
+        "translation": "注册会计师；会计师；特许会计师"
+    }, {
+        "phrase": "professional accountant",
+        "translation": "专业会计师"
+    }, {
+        "phrase": "certified accountant",
+        "translation": "注册会计师；审定会计师"
+    }, {
+        "phrase": "tax accountant",
+        "translation": "税务会计；税务师"
+    }, {
+        "phrase": "assistant accountant",
+        "translation": "助理会计"
+    }, {
+        "phrase": "senior accountant",
+        "translation": "高级会计；主任会计师"
+    }, {
+        "phrase": "junior accountant",
+        "translation": "初级会计师；助理会计员"
+    }, {
+        "phrase": "qualified accountant",
+        "translation": "合格的会计师"
+    }]
+}, {
+    "word": "board",
+    "translations": [{
+        "translation": "董事会",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "on board",
+        "translation": "在船（火车、飞机）上"
+    }, {
+        "phrase": "on the board",
+        "translation": "在董事会，将在会上讨论；在那块木板上"
+    }, {
+        "phrase": "circuit board",
+        "translation": "电路板；线路板"
+    }, {
+        "phrase": "by the board",
+        "translation": "由董事会…；向船外"
+    }, {
+        "phrase": "across the board",
+        "translation": "全面地；包括一切地；以三等分的钱数赌同一匹马赢得前三名"
+    }, {
+        "phrase": "management board",
+        "translation": "管理委员会"
+    }, {
+        "phrase": "printed circuit board",
+        "translation": "印刷电路板"
+    }, {
+        "phrase": "board chairman",
+        "translation": "n. 董事长"
+    }, {
+        "phrase": "bulletin board",
+        "translation": "布告牌；电子公告栏"
+    }, {
+        "phrase": "chairman of the board",
+        "translation": "n. 董事长；董事局主席"
+    }, {
+        "phrase": "message board",
+        "translation": "留言板"
+    }, {
+        "phrase": "board and lodging",
+        "translation": "膳宿；供应食宿"
+    }, {
+        "phrase": "board meeting",
+        "translation": "董事会议"
+    }, {
+        "phrase": "control board",
+        "translation": "控制板；仪器板"
+    }, {
+        "phrase": "drawing board",
+        "translation": "制图板，绘图板"
+    }, {
+        "phrase": "board member",
+        "translation": "董事会成员"
+    }, {
+        "phrase": "board of supervisors",
+        "translation": "监事会；（美）中西部及东部各州的县议会"
+    }, {
+        "phrase": "corrugated board",
+        "translation": "瓦楞纸板；波纹纸板"
+    }, {
+        "phrase": "main board",
+        "translation": "主板；主机板"
+    }, {
+        "phrase": "paper board",
+        "translation": "纸板"
+    }]
+}, {
+    "word": "buck",
+    "translations": [{
+        "translation": "反对",
+        "type": "v"
+    }, {
+        "translation": "美元",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "buck up",
+        "translation": "使振作；打起精神；[俚]加快"
+    }, {
+        "phrase": "buck the trend",
+        "translation": "反潮流"
+    }, {
+        "phrase": "fast buck",
+        "translation": "n. 轻易得来的钱；投机赚钱"
+    }, {
+        "phrase": "bang for the buck",
+        "translation": "划算；合算；货真价实"
+    }]
+}, {
+    "word": "boost",
+    "translations": [{
+        "translation": "提高",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "boost up",
+        "translation": "向上推"
+    }, {
+        "phrase": "boost pressure",
+        "translation": "升压；吸入管压力"
+    }]
+}, {
+    "word": "alien",
+    "translations": [{
+        "translation": "陌生的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "alien from",
+        "translation": "相异的"
+    }]
+}, {
+    "word": "accelerate",
+    "translations": [{
+        "translation": "加速",
+        "type": "v"
+    }]
+}, {
+    "word": "acutely",
+    "translations": [{
+        "translation": "敏锐地",
+        "type": "adv"
+    }],
+    "phrases": [{
+        "phrase": "acutely aware",
+        "translation": "清醒地看到"
+    }]
+}, {
+    "word": "addict",
+    "translations": [{
+        "translation": "上瘾，沉溺",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "drug addict",
+        "translation": "吸毒者；滥用药物者"
+    }]
+}, {
+    "word": "botanical",
+    "translations": [{
+        "translation": "植物学的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "botanical garden",
+        "translation": "植物园"
+    }]
+}, {
+    "word": "anticipate",
+    "translations": [{
+        "translation": "期望，预期",
+        "type": "v"
+    }]
+}, {
+    "word": "adversely",
+    "translations": [{
+        "translation": "不利地",
+        "type": "adv"
+    }]
+}, {
+    "word": "appoint",
+    "translations": [{
+        "translation": "任命",
+        "type": "v"
+    }]
+}, {
+    "word": "brutal",
+    "translations": [{
+        "translation": "残酷的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "brutal violence",
+        "translation": "暴力"
+    }]
+}, {
+    "word": "bacteria",
+    "translations": [{
+        "translation": "细菌",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "lactic acid bacteria",
+        "translation": "乳酸菌"
+    }, {
+        "phrase": "pathogenic bacteria",
+        "translation": "致病菌；病原菌"
+    }, {
+        "phrase": "photosynthetic bacteria",
+        "translation": "光合细菌"
+    }, {
+        "phrase": "harmful bacteria",
+        "translation": "有害细菌；病菌"
+    }, {
+        "phrase": "anaerobic bacteria",
+        "translation": "厌氧细菌，厌氧菌；嫌气细菌"
+    }, {
+        "phrase": "sulfate reducing bacteria",
+        "translation": "硫酸盐还原菌"
+    }, {
+        "phrase": "coliform bacteria",
+        "translation": "大肠型细菌"
+    }, {
+        "phrase": "aerobic bacteria",
+        "translation": "需氧细菌；好氧细菌"
+    }, {
+        "phrase": "heterotrophic bacteria",
+        "translation": "异养细菌"
+    }, {
+        "phrase": "acetic acid bacteria",
+        "translation": "醋酸菌；乙酸菌；醋酸细菌"
+    }, {
+        "phrase": "denitrifying bacteria",
+        "translation": "反硝化细菌"
+    }, {
+        "phrase": "intestinal bacteria",
+        "translation": "肠道细菌"
+    }, {
+        "phrase": "nitrifying bacteria",
+        "translation": "硝化细菌；硝化菌"
+    }, {
+        "phrase": "methane bacteria",
+        "translation": "甲烷菌；甲烷细菌"
+    }, {
+        "phrase": "iron bacteria",
+        "translation": "铁细菌"
+    }, {
+        "phrase": "gram negative bacteria",
+        "translation": "革兰氏阴性细菌"
+    }, {
+        "phrase": "symbiotic bacteria",
+        "translation": "共生菌"
+    }, {
+        "phrase": "sulphate reducing bacteria",
+        "translation": "硫酸还原物"
+    }]
+}, {
+    "word": "appreciative",
+    "translations": [{
+        "translation": "表示赞赏的，感谢的",
+        "type": "adj"
+    }]
+}, {
+    "word": "awesome",
+    "translations": [{
+        "translation": "极好的，令人敬畏的",
+        "type": "adj"
+    }]
+}, {
+    "word": "aggravate",
+    "translations": [{
+        "translation": "加重，加剧",
+        "type": "v"
+    }]
+}, {
+    "word": "approve",
+    "translations": [{
+        "translation": "赞同",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "approve oneself",
+        "translation": "[古语]证明为，表明为"
+    }, {
+        "phrase": "approve of",
+        "translation": "赞成"
+    }, {
+        "phrase": "examine and approve",
+        "translation": "审批"
+    }, {
+        "phrase": "check and approve",
+        "translation": "审阅"
+    }]
+}, {
+    "word": "agonize",
+    "translations": [{
+        "translation": "使痛苦",
+        "type": "v"
+    }]
+}, {
+    "word": "battle",
+    "translations": [{
+        "translation": "激战，战役",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "in battle",
+        "translation": "在战斗中；在战争中"
+    }, {
+        "phrase": "half the battle",
+        "translation": "有助于成功的条件；成功一半"
+    }, {
+        "phrase": "battle with",
+        "translation": "与…战斗"
+    }, {
+        "phrase": "battle against",
+        "translation": "斗争；与…战斗"
+    }, {
+        "phrase": "battle for",
+        "translation": "为……斗争"
+    }, {
+        "phrase": "battle it out",
+        "translation": "打出胜负，奋力争夺"
+    }, {
+        "phrase": "battle field",
+        "translation": "战场"
+    }, {
+        "phrase": "battle line",
+        "translation": "战线；主战部队"
+    }, {
+        "phrase": "battle effectiveness",
+        "translation": "n. 战斗力"
+    }, {
+        "phrase": "losing battle",
+        "translation": "必败之仗"
+    }, {
+        "phrase": "battle cry",
+        "translation": "呐喊；战斗口号；标语（体育竞赛中）"
+    }, {
+        "phrase": "battle group",
+        "translation": "战斗群"
+    }, {
+        "phrase": "battle of life",
+        "translation": "生存的斗争"
+    }, {
+        "phrase": "have the battle",
+        "translation": "战胜"
+    }, {
+        "phrase": "give battle",
+        "translation": "挑战"
+    }, {
+        "phrase": "battle royal",
+        "translation": "混战；激战；激烈的争论"
+    }, {
+        "phrase": "battle of britain",
+        "translation": "不列颠之战（1940年7至10月英德空军的一系列战斗）；伦敦上空的鹰（电影名称）"
+    }, {
+        "phrase": "pitched battle",
+        "translation": "激战"
+    }, {
+        "phrase": "fall in battle",
+        "translation": "阵亡"
+    }, {
+        "phrase": "give the battle",
+        "translation": "v. 认输；打败仗"
+    }]
+}, {
+    "word": "applicant",
+    "translations": [{
+        "translation": "申请者",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "job applicant",
+        "translation": "求职人员"
+    }]
+}, {
+    "word": "apathy",
+    "translations": [{
+        "translation": "冷漠",
+        "type": "n"
+    }]
+}, {
+    "word": "burden",
+    "translations": [{
+        "translation": "负担",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "heavy burden",
+        "translation": "重负；重炉料"
+    }, {
+        "phrase": "burden of proof",
+        "translation": "举证责任；提供证据之责任"
+    }, {
+        "phrase": "tax burden",
+        "translation": "课税负担"
+    }, {
+        "phrase": "financial burden",
+        "translation": "n. 财政负担，经济负担"
+    }, {
+        "phrase": "economic burden",
+        "translation": "经济负担"
+    }, {
+        "phrase": "beast of burden",
+        "translation": "驮兽（如马、驴等）"
+    }, {
+        "phrase": "burden of persuasion",
+        "translation": "说服责任；举证责任"
+    }]
+}, {
+    "word": "ancient",
+    "translations": [{
+        "translation": "古代的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "ancient chinese",
+        "translation": "n. 古代汉语"
+    }, {
+        "phrase": "ancient times",
+        "translation": "古代，上古"
+    }, {
+        "phrase": "ancient city",
+        "translation": "古都"
+    }, {
+        "phrase": "in ancient times",
+        "translation": "在古代"
+    }, {
+        "phrase": "ancient greece",
+        "translation": "古希腊"
+    }, {
+        "phrase": "ancient greek",
+        "translation": "古希腊语"
+    }, {
+        "phrase": "ancient civilization",
+        "translation": "古代文明；远古文化"
+    }, {
+        "phrase": "ancient and modern",
+        "translation": "古今"
+    }, {
+        "phrase": "ancient capital",
+        "translation": "古都"
+    }, {
+        "phrase": "ancient history",
+        "translation": "西洋古代史；家喻户晓的故事"
+    }, {
+        "phrase": "ancient literature",
+        "translation": "古代文学"
+    }, {
+        "phrase": "ancient architecture",
+        "translation": "古代建筑"
+    }, {
+        "phrase": "ancient world",
+        "translation": "远古世纪"
+    }, {
+        "phrase": "ancient chinese literature",
+        "translation": "中国古代文学"
+    }, {
+        "phrase": "ancient relics",
+        "translation": "古代遗物，古迹"
+    }, {
+        "phrase": "ancient coins",
+        "translation": "古钱币"
+    }, {
+        "phrase": "history of ancient china",
+        "translation": "中国古代史"
+    }, {
+        "phrase": "ancient porcelain",
+        "translation": "古瓷"
+    }]
+}, {
+    "word": "boom",
+    "translations": [{
+        "translation": "繁荣",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "economic boom",
+        "translation": "经济繁荣，经济腾飞"
+    }, {
+        "phrase": "baby boom",
+        "translation": "婴儿潮；生育高峰"
+    }, {
+        "phrase": "business boom",
+        "translation": "商业繁荣，生意兴隆"
+    }, {
+        "phrase": "oil boom",
+        "translation": "围油栏；防油栅；油栅"
+    }, {
+        "phrase": "boom and bust",
+        "translation": "繁荣与萧条"
+    }, {
+        "phrase": "sonic boom",
+        "translation": "超音波爆声；音爆（等于sonic bang）"
+    }, {
+        "phrase": "telescopic boom",
+        "translation": "伸缩臂"
+    }, {
+        "phrase": "boom period",
+        "translation": "繁荣时期；兴旺时期"
+    }, {
+        "phrase": "baby boom generation",
+        "translation": "婴儿潮一代；生育高峰代"
+    }, {
+        "phrase": "placing boom",
+        "translation": "灌筑吊杆"
+    }]
+}, {
+    "word": "bridge",
+    "translations": [{
+        "translation": "缩小；架桥于…之上",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "arch bridge",
+        "translation": "拱形桥"
+    }, {
+        "phrase": "suspension bridge",
+        "translation": "吊桥"
+    }, {
+        "phrase": "bridge construction",
+        "translation": "桥梁施工；桥梁结构；桥梁建筑"
+    }, {
+        "phrase": "bridge over",
+        "translation": "在…上架桥；渡过；暂时帮助"
+    }, {
+        "phrase": "highway bridge",
+        "translation": "公路桥"
+    }, {
+        "phrase": "girder bridge",
+        "translation": "板梁桥；高架桥；天桥"
+    }, {
+        "phrase": "bridge deck",
+        "translation": "桥面板；船桥甲板"
+    }, {
+        "phrase": "bay bridge",
+        "translation": "海湾大桥"
+    }, {
+        "phrase": "railway bridge",
+        "translation": "铁路桥；铁桥；火车桥"
+    }, {
+        "phrase": "concrete bridge",
+        "translation": "混凝土桥"
+    }, {
+        "phrase": "build a bridge",
+        "translation": "建立好关系；修建桥梁"
+    }, {
+        "phrase": "steel bridge",
+        "translation": "钢桥"
+    }, {
+        "phrase": "road bridge",
+        "translation": "公路桥；道路桥"
+    }, {
+        "phrase": "bridge across",
+        "translation": "桥接，跨接"
+    }, {
+        "phrase": "bridge the gap",
+        "translation": "缩小差距"
+    }, {
+        "phrase": "bridge crane",
+        "translation": "桥式起重机；桥式吊车"
+    }, {
+        "phrase": "rigid frame bridge",
+        "translation": "刚构桥，刚架桥；刚架式桥梁"
+    }, {
+        "phrase": "stone bridge",
+        "translation": "石桥"
+    }, {
+        "phrase": "bridge type",
+        "translation": "桥型；桥式"
+    }, {
+        "phrase": "rainbow bridge",
+        "translation": "虹桥（美国犹他州南部天然拱形石桥）"
+    }]
+}, {
+    "word": "breakthrough",
+    "translations": [{
+        "translation": "突破性进展",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "breakthrough point",
+        "translation": "突破点；穿透点；贯穿点"
+    }, {
+        "phrase": "make a breakthrough",
+        "translation": "有重大发展或突破"
+    }, {
+        "phrase": "breakthrough technology",
+        "translation": "突破性技术"
+    }]
+}, {
+    "word": "achieve",
+    "translations": [{
+        "translation": "达到，实现",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "achieve success",
+        "translation": "取得成功；获得成功"
+    }, {
+        "phrase": "achieve one's goals",
+        "translation": "实现目标"
+    }]
+}, {
+    "word": "blouse",
+    "translations": [{
+        "translation": "衬衫",
+        "type": "n"
+    }]
+}, {
+    "word": "association",
+    "translations": [{
+        "translation": "联系",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "association with",
+        "translation": "与…的交往；与…联合"
+    }, {
+        "phrase": "trade association",
+        "translation": "贸易协会；同业公会"
+    }, {
+        "phrase": "in association with",
+        "translation": "与…相联系；与…联合"
+    }, {
+        "phrase": "medical association",
+        "translation": "医学会；医疗协会"
+    }, {
+        "phrase": "an association",
+        "translation": "协会；社团"
+    }, {
+        "phrase": "articles of association",
+        "translation": "公司章程；组织章程"
+    }, {
+        "phrase": "business association",
+        "translation": "商业协会；业务联系"
+    }, {
+        "phrase": "alumni association",
+        "translation": "校友会"
+    }, {
+        "phrase": "professional association",
+        "translation": "专业协会；专业组织"
+    }, {
+        "phrase": "bar association",
+        "translation": "律师协会"
+    }, {
+        "phrase": "mortgage bankers association",
+        "translation": "抵押贷款银行家协会"
+    }, {
+        "phrase": "national basketball association",
+        "translation": "国家篮球协会（简称NBA）"
+    }, {
+        "phrase": "freedom of association",
+        "translation": "结社自由"
+    }, {
+        "phrase": "press association",
+        "translation": "通讯社"
+    }, {
+        "phrase": "american psychological association",
+        "translation": "美国心理学协会"
+    }, {
+        "phrase": "negative association",
+        "translation": "负相联，负结合"
+    }, {
+        "phrase": "free association",
+        "translation": "自由联想"
+    }, {
+        "phrase": "mineral association",
+        "translation": "矿物组合；共生矿物"
+    }, {
+        "phrase": "credit association",
+        "translation": "信用社"
+    }, {
+        "phrase": "word association",
+        "translation": "词联想"
+    }]
+}, {
+    "word": "anonymous",
+    "translations": [{
+        "translation": "匿名的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "alcoholics anonymous",
+        "translation": "匿名戒酒互助社；慝名戒毒会"
+    }]
+}, {
+    "word": "abuse",
+    "translations": [{
+        "translation": "虐待",
+        "type": "n"
+    }, {
+        "translation": "滥用",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "drug abuse",
+        "translation": "药物滥用；毒品滥用"
+    }, {
+        "phrase": "child abuse",
+        "translation": "虐待儿童，摧残儿童"
+    }, {
+        "phrase": "substance abuse",
+        "translation": "物质滥用；滥用药物"
+    }, {
+        "phrase": "sexual abuse",
+        "translation": "性虐待"
+    }, {
+        "phrase": "abuse of power",
+        "translation": "滥用权力"
+    }, {
+        "phrase": "alcohol abuse",
+        "translation": "酒精滥用，酗酒"
+    }, {
+        "phrase": "physical abuse",
+        "translation": "躯体虐待；身体伤害；外观损坏"
+    }, {
+        "phrase": "verbal abuse",
+        "translation": "言语虐待；口头谩骂；说粗话，用污言秽语"
+    }, {
+        "phrase": "sex abuse",
+        "translation": "性虐待（等于sexual abuse）"
+    }, {
+        "phrase": "emotional abuse",
+        "translation": "精神虐待"
+    }]
+}, {
+    "word": "approximately",
+    "translations": [{
+        "translation": "大约",
+        "type": "adv"
+    }],
+    "phrases": [{
+        "phrase": "approximately equal",
+        "translation": "约等于，近似等于"
+    }]
+}, {
+    "word": "bizarre",
+    "translations": [{
+        "translation": "古怪的；奇怪的",
+        "type": "adj"
+    }]
+}, {
+    "word": "assemble",
+    "translations": [{
+        "translation": "收集，组装",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "assemble language",
+        "translation": "n. 汇编语言"
+    }, {
+        "phrase": "assemble line",
+        "translation": "作业的装配线"
+    }]
+}, {
+    "word": "bruise",
+    "translations": [{
+        "translation": "使碰伤，擦伤",
+        "type": "v"
+    }]
+}, {
+    "word": "accurate",
+    "translations": [{
+        "translation": "精确的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "accurate measurement",
+        "translation": "精确测量"
+    }, {
+        "phrase": "accurate positioning",
+        "translation": "精确定位"
+    }, {
+        "phrase": "accurate model",
+        "translation": "准确模型"
+    }, {
+        "phrase": "accurate simulation",
+        "translation": "准确模拟"
+    }, {
+        "phrase": "accurate at",
+        "translation": "对…很正确"
+    }, {
+        "phrase": "accurate calibration",
+        "translation": "精确校准"
+    }, {
+        "phrase": "accurate record",
+        "translation": "精确记录"
+    }, {
+        "phrase": "accurate adjustment",
+        "translation": "精调；精密调整"
+    }, {
+        "phrase": "accurate grinding",
+        "translation": "精磨；精密磨削"
+    }]
+}, {
+    "word": "abnormally",
+    "translations": [{
+        "translation": "不正常的",
+        "type": "adv"
+    }]
+}, {
+    "word": "bitter",
+    "translations": [{
+        "translation": "痛苦的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "bitter taste",
+        "translation": "味苦，苦味"
+    }, {
+        "phrase": "bitter cold",
+        "translation": "严寒"
+    }, {
+        "phrase": "bitter gourd",
+        "translation": "苦瓜，苦味葫芦"
+    }, {
+        "phrase": "bitter pill",
+        "translation": "困恼；苦涩的药丸"
+    }, {
+        "phrase": "bitter melon",
+        "translation": "苦瓜"
+    }, {
+        "phrase": "bitter almond",
+        "translation": "苦杏仁"
+    }, {
+        "phrase": "bitter orange",
+        "translation": "酸橙，臭橙；苦酸橙"
+    }, {
+        "phrase": "bitter end",
+        "translation": "最后；结局"
+    }, {
+        "phrase": "bitter salt",
+        "translation": "泻盐，硫酸镁"
+    }, {
+        "phrase": "bitter tea",
+        "translation": "苦茶"
+    }]
+}, {
+    "word": "auxiliary",
+    "translations": [{
+        "translation": "辅助的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "auxiliary equipment",
+        "translation": "辅助设备，附属设备；备用设备"
+    }, {
+        "phrase": "auxiliary power",
+        "translation": "厂用电力"
+    }, {
+        "phrase": "auxiliary system",
+        "translation": "辅助系统"
+    }, {
+        "phrase": "auxiliary material",
+        "translation": "辅助材料"
+    }, {
+        "phrase": "auxiliary shaft",
+        "translation": "副轴；辅助竖井"
+    }, {
+        "phrase": "auxiliary function",
+        "translation": "辅助功能；辅助函数"
+    }, {
+        "phrase": "auxiliary device",
+        "translation": "辅助装置，辅助设备；附属装置"
+    }, {
+        "phrase": "auxiliary machinery",
+        "translation": "辅助机器"
+    }, {
+        "phrase": "auxiliary machine",
+        "translation": "辅助机械；备用机器"
+    }, {
+        "phrase": "auxiliary information",
+        "translation": "辅助信息"
+    }, {
+        "phrase": "auxiliary service",
+        "translation": "附属服务设备；附属服务"
+    }, {
+        "phrase": "auxiliary verb",
+        "translation": "助动词"
+    }, {
+        "phrase": "auxiliary power supply",
+        "translation": "自备供电设备"
+    }, {
+        "phrase": "auxiliary engine",
+        "translation": "辅助动力机"
+    }, {
+        "phrase": "auxiliary circuit",
+        "translation": "辅助电路"
+    }, {
+        "phrase": "textile auxiliary",
+        "translation": "纺织助剂"
+    }, {
+        "phrase": "auxiliary storage",
+        "translation": "辅助存储器（等于auxiliary memory）"
+    }, {
+        "phrase": "auxiliary power unit (apu)",
+        "translation": "辅助动力单元"
+    }, {
+        "phrase": "auxiliary operation",
+        "translation": "辅助操作"
+    }, {
+        "phrase": "auxiliary pump",
+        "translation": "辅助泵"
+    }]
+}, {
+    "word": "address",
+    "translations": [{
+        "translation": "解决",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "email address",
+        "translation": "电子邮箱信箱"
+    }, {
+        "phrase": "ip address",
+        "translation": "网络地址，IP地址"
+    }, {
+        "phrase": "address book",
+        "translation": "通讯簿；住址名册"
+    }, {
+        "phrase": "home address",
+        "translation": "家庭住址；标识地址；内部地址"
+    }, {
+        "phrase": "mailing address",
+        "translation": "邮寄地址"
+    }, {
+        "phrase": "network address",
+        "translation": "网络地址"
+    }, {
+        "phrase": "address space",
+        "translation": "地址空间"
+    }, {
+        "phrase": "address as",
+        "translation": "称呼"
+    }, {
+        "phrase": "e-mail address",
+        "translation": "电子邮件地址"
+    }, {
+        "phrase": "public address",
+        "translation": "公用地址；扩音装置"
+    }, {
+        "phrase": "address system",
+        "translation": "地址系统；称谓系统"
+    }, {
+        "phrase": "inaugural address",
+        "translation": "就职演说"
+    }, {
+        "phrase": "address translation",
+        "translation": "地址转换；位址翻译"
+    }, {
+        "phrase": "public address system",
+        "translation": "扩声系统；有线广播系统；公用地址系统"
+    }, {
+        "phrase": "correspondence address",
+        "translation": "通讯地址；通信地址"
+    }, {
+        "phrase": "specific address",
+        "translation": "专用地址"
+    }, {
+        "phrase": "full address",
+        "translation": "全地址"
+    }, {
+        "phrase": "physical address",
+        "translation": "物理地址；实际地址"
+    }, {
+        "phrase": "permanent address",
+        "translation": "永久地址；永久住址；原籍"
+    }, {
+        "phrase": "mail address",
+        "translation": "邮件地址；信件地址"
+    }]
+}, {
+    "word": "accuse",
+    "translations": [{
+        "translation": "指控",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "accuse of",
+        "translation": "谴责，控告"
+    }]
+}, {
+    "word": "applicable",
+    "translations": [{
+        "translation": "可应用的",
+        "type": "adj"
+    }],
+    "phrases": [{
+        "phrase": "applicable scope",
+        "translation": "适用范围"
+    }, {
+        "phrase": "if applicable",
+        "translation": "如果适用；若可以"
+    }, {
+        "phrase": "applicable law",
+        "translation": "适用的法律；准据法"
+    }, {
+        "phrase": "where applicable",
+        "translation": "在适用情况下"
+    }, {
+        "phrase": "applicable medium",
+        "translation": "适用介质"
+    }]
+}, {
+    "word": "alert",
+    "translations": [{
+        "translation": "机警的",
+        "type": "adj"
+    }, {
+        "translation": "提醒",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "alert someone to sth",
+        "translation": "使...警觉；使...警惕"
+    }, {
+        "phrase": "on the alert",
+        "translation": "提防；警戒著；随时准备著"
+    }, {
+        "phrase": "red alert",
+        "translation": "紧急警报，红色警报；应急状况"
+    }]
+}, {
+    "word": "authority",
+    "translations": [{
+        "translation": "权威",
+        "type": "n"
+    }],
+    "phrases": [{
+        "phrase": "competent authority",
+        "translation": "[法]主管当局，主管部门"
+    }, {
+        "phrase": "authority on",
+        "translation": "有关…的权威；…的专家"
+    }, {
+        "phrase": "local authority",
+        "translation": "地方当局；地方政权"
+    }, {
+        "phrase": "administrative authority",
+        "translation": "行政当局"
+    }, {
+        "phrase": "tax authority",
+        "translation": "税务机关"
+    }, {
+        "phrase": "public authority",
+        "translation": "公共机关；政府当局"
+    }, {
+        "phrase": "in authority",
+        "translation": "有权；持有权力的地位"
+    }, {
+        "phrase": "judicial authority",
+        "translation": "司法机关"
+    }, {
+        "phrase": "legal authority",
+        "translation": "法定权威"
+    }, {
+        "phrase": "central authority",
+        "translation": "中央集权"
+    }, {
+        "phrase": "monetary authority",
+        "translation": "货币当局；金融管理专员"
+    }, {
+        "phrase": "port authority",
+        "translation": "港务局"
+    }, {
+        "phrase": "approval authority",
+        "translation": "批准机关；核准权"
+    }, {
+        "phrase": "regulatory authority",
+        "translation": "管理机构；制定规章的机构；执行机构"
+    }, {
+        "phrase": "aviation authority",
+        "translation": "民航当局"
+    }, {
+        "phrase": "have authority",
+        "translation": "管理；有管辖权"
+    }, {
+        "phrase": "limits of authority",
+        "translation": "税收管理权和权限，权限"
+    }, {
+        "phrase": "by the authority of",
+        "translation": "以…的权力；得到…许可"
+    }, {
+        "phrase": "certificate authority",
+        "translation": "凭证管理中心；认证授权"
+    }, {
+        "phrase": "authority control",
+        "translation": "权限控制；权威控制"
+    }]
+}, {
+    "word": "apologize",
+    "translations": [{
+        "translation": "道歉",
+        "type": "v"
+    }],
+    "phrases": [{
+        "phrase": "apologize for",
+        "translation": "道歉"
+    }]
+}]

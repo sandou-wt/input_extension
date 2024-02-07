@@ -1,0 +1,1001 @@
+[
+    {
+      "word": "nav",
+      "translations": [
+        {
+          "translation": "导航",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "title",
+      "translations": [
+        {
+          "translation": "标题",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "summary",
+      "translations": [
+        {
+          "translation": "摘要",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "menu",
+      "translations": [
+        {
+          "translation": "菜单",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "submenu",
+      "translations": [
+        {
+          "translation": "子菜单",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "mainbav",
+      "translations": [
+        {
+          "translation": "主导航",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "subnav",
+      "translations": [
+        {
+          "translation": "子导航",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "topnav",
+      "translations": [
+        {
+          "translation": "顶导航",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "sidebar",
+      "translations": [
+        {
+          "translation": "边导航",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "leftsidebar",
+      "translations": [
+        {
+          "translation": "左导航",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "rightsidebar",
+      "translations": [
+        {
+          "translation": "右导航",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "container",
+      "translations": [
+        {
+          "translation": "容器",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "header",
+      "translations": [
+        {
+          "translation": "页头",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "content/container",
+      "translations": [
+        {
+          "translation": "内容",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "footer",
+      "translations": [
+        {
+          "translation": "页尾",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "nav",
+      "translations": [
+        {
+          "translation": "导航",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "sidebar",
+      "translations": [
+        {
+          "translation": "侧栏",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "column",
+      "translations": [
+        {
+          "translation": "栏目",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "main",
+      "translations": [
+        {
+          "translation": "页面主体",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "left right center",
+      "translations": [
+        {
+          "translation": "左右中",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "wrapper",
+      "translations": [
+        {
+          "translation": "页面外围控制整体布局宽度",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "logo",
+      "translations": [
+        {
+          "translation": "标志",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "scroll",
+      "translations": [
+        {
+          "translation": "滚动",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "banner",
+      "translations": [
+        {
+          "translation": "广告",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "login",
+      "translations": [
+        {
+          "translation": "登录",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "regsiter",
+      "translations": [
+        {
+          "translation": "注册",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "search",
+      "translations": [
+        {
+          "translation": "搜索",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "icon",
+      "translations": [
+        {
+          "translation": "图标",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "note",
+      "translations": [
+        {
+          "translation": "注释",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "guild",
+      "translations": [
+        {
+          "translation": "指南",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "status",
+      "translations": [
+        {
+          "translation": "状态",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "service",
+      "translations": [
+        {
+          "translation": "服务",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "btn",
+      "translations": [
+        {
+          "translation": "按钮",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "hot",
+      "translations": [
+        {
+          "translation": "热点",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "news",
+      "translations": [
+        {
+          "translation": "新闻",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "download",
+      "translations": [
+        {
+          "translation": "下载",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "copyright",
+      "translations": [
+        {
+          "translation": "版权",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "vote",
+      "translations": [
+        {
+          "translation": "投票",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "tab",
+      "translations": [
+        {
+          "translation": "标签页",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "loginbar",
+      "translations": [
+        {
+          "translation": "登录条",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "breadCrumb",
+      "translations": [
+        {
+          "translation": "面包屑",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "current",
+      "translations": [
+        {
+          "translation": "当前的",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "tips",
+      "translations": [
+        {
+          "translation": "小技巧",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "shop",
+      "translations": [
+        {
+          "translation": "功能区",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "list",
+      "translations": [
+        {
+          "translation": "文章列表",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "msg",
+      "translations": [
+        {
+          "translation": "提示信息",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "partner",
+      "translations": [
+        {
+          "translation": "合作伙伴",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "friendlink",
+      "translations": [
+        {
+          "translation": "友情链接",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "translations": [
+        {
+          "translation": "线",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "row",
+      "translations": [
+        {
+          "translation": "行",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "width",
+      "translations": [
+        {
+          "translation": "宽",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "height",
+      "translations": [
+        {
+          "translation": "高",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "margin",
+      "translations": [
+        {
+          "translation": "外边界",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "padding",
+      "translations": [
+        {
+          "translation": "内边界",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "border",
+      "translations": [
+        {
+          "translation": "边框",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "line-height",
+      "translations": [
+        {
+          "translation": "行高",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "background",
+      "translations": [
+        {
+          "translation": "背景",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "color",
+      "translations": [
+        {
+          "translation": "颜色",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "top",
+      "translations": [
+        {
+          "translation": "顶部",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "title",
+      "translations": [
+        {
+          "translation": "标题",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "font",
+      "translations": [
+        {
+          "translation": "字体",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "body",
+      "translations": [
+        {
+          "translation": "身体",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "size",
+      "translations": [
+        {
+          "translation": "大小",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "list",
+      "translations": [
+        {
+          "translation": "列表",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "text",
+      "translations": [
+        {
+          "translation": "文本",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "style",
+      "translations": [
+        {
+          "translation": "样式",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "align",
+      "translations": [
+        {
+          "translation": "对齐",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "image",
+      "translations": [
+        {
+          "translation": "图像",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "decoration",
+      "translations": [
+        {
+          "translation": "修饰",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "source",
+      "translations": [
+        {
+          "translation": "资源",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "width",
+      "translations": [
+        {
+          "translation": "宽度",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "through",
+      "translations": [
+        {
+          "translation": "穿过",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "height",
+      "translations": [
+        {
+          "translation": "高度",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "indent",
+      "translations": [
+        {
+          "translation": "缩进",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "italic",
+      "translations": [
+        {
+          "translation": "斜体",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "link",
+      "translations": [
+        {
+          "translation": "链接",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "bold",
+      "translations": [
+        {
+          "translation": "加粗",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "italic",
+      "translations": [
+        {
+          "translation": "斜体",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "weight",
+      "translations": [
+        {
+          "translation": "加重",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "bold",
+      "translations": [
+        {
+          "translation": "加粗",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "input",
+      "translations": [
+        {
+          "translation": "输入",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "main",
+      "translations": [
+        {
+          "translation": "主体",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "under",
+      "translations": [
+        {
+          "translation": "下面的",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "repeat",
+      "translations": [
+        {
+          "translation": "重复",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "padding",
+      "translations": [
+        {
+          "translation": "填充",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "position",
+      "translations": [
+        {
+          "translation": "位置",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "normal",
+      "translations": [
+        {
+          "translation": "正常",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "children",
+      "translations": [
+        {
+          "translation": "子级",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "hidden",
+      "translations": [
+        {
+          "translation": "隐藏",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "visible",
+      "translations": [
+        {
+          "translation": "显示",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "overflow",
+      "translations": [
+        {
+          "translation": "溢出",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "list",
+      "translations": [
+        {
+          "translation": "列表",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "nav",
+      "translations": [
+        {
+          "translation": "导航",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "display",
+      "translations": [
+        {
+          "translation": "显示类型",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "banner",
+      "translations": [
+        {
+          "translation": "广告图片",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "header",
+      "translations": [
+        {
+          "translation": "页眉",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "master",
+      "translations": [
+        {
+          "translation": "主要的",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "module",
+      "translations": [
+        {
+          "translation": "模块",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "reset",
+      "translations": [
+        {
+          "translation": "重置",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "base/common",
+      "translations": [
+        {
+          "translation": "基本共用",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "layout",
+      "translations": [
+        {
+          "translation": "布局，版面",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "themes",
+      "translations": [
+        {
+          "translation": "主题",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "columns",
+      "translations": [
+        {
+          "translation": "专栏",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "font",
+      "translations": [
+        {
+          "translation": "文字",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "forms",
+      "translations": [
+        {
+          "translation": "表单",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "mend",
+      "translations": [
+        {
+          "translation": "补丁",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "print",
+      "translations": [
+        {
+          "translation": "打印",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "mixins",
+      "translations": [
+        {
+          "translation": "混入",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "components",
+      "translations": [
+        {
+          "translation": "组件",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "public/static",
+      "translations": [
+        {
+          "translation": "静态资源",
+          "type": ""
+        }
+      ]
+    },
+    {
+      "word": "router",
+      "translations": [
+        {
+          "translation": "路由",
+          "type": ""
+        }
+      ]
+    }
+  ]
